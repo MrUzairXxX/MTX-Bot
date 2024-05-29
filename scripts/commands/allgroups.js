@@ -1,8 +1,8 @@
 module.exports.config = {
-  name: "allgroups",
+  name: "allgroups1",
   version: "2.0.0",
   permission: 2,
-  credits: "Nayan",
+  credits: "uzairrajput",
   description: "all groups",
   prefix: true,
   category: "admin",
